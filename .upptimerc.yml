@@ -35,24 +35,6 @@ status-website:
     - title: GitHub
       href: https://github.com/nanorocks/uptime-tool
 
-# Commit messages configuration
-commitMessages:
-  commitAuthorName: "Upptime Bot"
-  commitAuthorEmail: "bot@upptime.js.org"
-  commitType: ":rocket:"
-  readmeContent: "\n[📈 Live Status](https://nanorocks.github.io/uptime-tool): <!-- summary_status_autogen_start -->\n<!-- summary_status_autogen_end -->"
-  commitAutocorrect: false
-  rollbackAutoCommit: true
-
-# General configuration
-commitPrefix: "[Automated]"
-skipHomepageOnlyUpdates: true
-assignees:
-  - nanorocks
-labels:
-  - "status"
-  - "uptime"
-
 # Check interval (in minutes)
 interval: 5
 

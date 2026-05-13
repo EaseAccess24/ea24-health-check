@@ -1,39 +1,29 @@
 # Change these first
-owner: nanorocks # Your GitHub organization or username, where this repository lives
-repo: uptime-tool # The name of this repository
+owner: EaseAccess24 # Your GitHub organization or username, where this repository lives
+repo: ea24-health-check # The name of this repository
 
 sites:
-  - name: Deliciopz
-    url: https://deliciopz.com
-  - name: Delicio Beebistro
-    url: http://delicio.beebistro.mk
-  - name: Beebistro
-    url: http://beebistro.mk
-  - name: Beebistro Support
-    url: https://support.beebistro.mk
-  - name: Nankov
-    url: http://nankov.mk
-  - name: Velogs
-    url: https://velogs.app
-  - name: Velogs Test
-    url: https://test.velogs.app
+  - name: EaseAccess24 Staging
+    url: https://staging.easeaccess24.com/
+  - name: EaseAccess24
+    url: https://www.easeaccess24.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: custom-domain.com
-  baseUrl: /uptime-tool
+  baseUrl: /ea24-health-check
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/logo.svg
-  name: Uptime Monitor
-  introTitle: "Uptime Monitor"
-  introMessage: Real-time uptime monitoring for nanorocks projects
+  name: EaseAccess24 Uptime Monitor
+  introTitle: "EaseAccess24 Uptime Monitor"
+  introMessage: Real-time uptime monitoring for EaseAccess24 services
   favicon: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/favicon.svg
   theme: dark
   navbar:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/nanorocks/uptime-tool
+      href: https://github.com/EaseAccess24/ea24-health-check
 
 # Check interval (in minutes)
 interval: 5

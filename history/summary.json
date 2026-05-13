@@ -1,0 +1,38 @@
+[
+  {
+    "name": "EaseAccess24 Staging",
+    "url": "https://staging.easeaccess24.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/staging.easeaccess24.com.ico",
+    "slug": "ease-access24-staging",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 3902,
+    "timeDay": 3902,
+    "timeWeek": 3902,
+    "timeMonth": 3902,
+    "timeYear": 3902,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "EaseAccess24",
+    "url": "https://www.easeaccess24.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/www.easeaccess24.com.ico",
+    "slug": "ease-access24",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 821,
+    "timeDay": 821,
+    "timeWeek": 821,
+    "timeMonth": 821,
+    "timeYear": 821,
+    "dailyMinutesDown": {}
+  }
+]

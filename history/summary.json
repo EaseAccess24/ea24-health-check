@@ -22,17 +22,17 @@
     "url": "https://www.easeaccess24.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.easeaccess24.com.ico",
     "slug": "ease-access24",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 781,
-    "timeDay": 1170,
-    "timeWeek": 955,
-    "timeMonth": 954,
-    "timeYear": 781,
+    "time": 778,
+    "timeDay": 808,
+    "timeWeek": 891,
+    "timeMonth": 938,
+    "timeYear": 778,
     "dailyMinutesDown": {}
   }
 ]

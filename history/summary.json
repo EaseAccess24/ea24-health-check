@@ -1,7 +1,7 @@
 [
   {
     "name": "EaseAccess24 Staging",
-    "url": "https://staging.easeaccess24.com/",
+    "url": "https://staging.easeaccess24.com/sign-in",
     "icon": "https://icons.duckduckgo.com/ip3/staging.easeaccess24.com.ico",
     "slug": "ease-access24-staging",
     "status": "down",
